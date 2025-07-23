@@ -1,0 +1,6 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+cloudscraper==1.2.71
+brotli==1.1.0
+tqdm==4.66.4
+black==24.4.2

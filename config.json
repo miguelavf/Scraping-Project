@@ -1,0 +1,18 @@
+{
+    "teams": {
+        "Vetroz": "https://matchcenter.avf-wfv.ch/default.aspx?v=1005&oid=17&lng=2&a=tr",
+        "Conthey": "https://matchcenter.avf-wfv.ch/default.aspx?v=970&oid=17&lng=2&a=tr",
+        "Sion": "https://matchcenter.avf-wfv.ch/default.aspx?v=1000&oid=17&lng=2&a=tr",
+        "Bramois": "https://matchcenter.avf-wfv.ch/default.aspx?v=964&oid=17&lng=2&a=tr",
+        "Châteauneuf": "https://matchcenter.avf-wfv.ch/default.aspx?v=967&oid=17&lng=2&a=tr",
+        "Grimisuat": "https://matchcenter.avf-wfv.ch/default.aspx?v=976&oid=17&lng=2&a=tr",
+        "Ayent": "https://matchcenter.avf-wfv.ch/default.aspx?v=962&oid=17&lng=2&a=tr",
+        "Chalais": "https://matchcenter.avf-wfv.ch/default.aspx?v=1011&oid=17&lng=2&a=tr",
+        "Riddes": "https://matchcenter.avf-wfv.ch/default.aspx?v=990&oid=17&lng=2&a=tr",
+        "Nendaz printse": "https://matchcenter.avf-wfv.ch/default.aspx?v=1006753&oid=17&lng=2&a=tr",
+        "Erde": "https://matchcenter.avf-wfv.ch/default.aspx?v=971&oid=17&lng=2&a=tr",
+        "Us herens": "https://matchcenter.avf-wfv.ch/default.aspx?v=1006&oid=17&lng=2&a=tr",
+        "Sierre": "https://matchcenter.avf-wfv.ch/default.aspx?v=999&oid=17&lng=2&a=tr",
+        "Granges": "https://matchcenter.avf-wfv.ch/default.aspx?v=975&oid=17&lng=2&a=tr"
+    }
+}
